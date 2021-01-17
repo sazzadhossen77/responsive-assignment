@@ -1,0 +1,39 @@
+.nav{
+    margin-left: 600px;
+}
+.header{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 900;
+    
+}
+.header img{
+    width:250px;   
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row img{
+
+    width: 100%;
+}
+.backpack-card{
+    background-color: white;
+    border-radius: 1em;
+    border: 0;;
+}
+.rate{
+   
+    font-size: 30px;
+}
+.buy-btn{
+    font-size: 18px;
+    font-family: Poppins;
+}
+.color{
+    background-color: lightslategray;
+    border-radius: .5em;
+}
+
